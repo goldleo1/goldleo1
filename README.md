@@ -2,7 +2,7 @@
 - 👀 I’m interested in web, security.
 - 🌱 I’m currently learning javascript, web.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... goldleo1@naver.com
 
 <!---
 goldleo1/goldleo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
